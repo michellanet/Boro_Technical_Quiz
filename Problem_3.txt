@@ -1,0 +1,58 @@
+
+
+3 
+i. List all methods you know that would reduce the response time of a website?
+A. Heavy CSS and JavaScript Use
+B. Bad Server/Hosting
+C. Poor Coding Standards
+D. Too Many Widgets and Plugins
+E. Hotlinking
+
+
+
+ii. GIT workflow for a large collaborative mobile/web development project?
+
+- In this GIT workflow, there will be two primary branches (master and develop).
+
+- Developers create features off of the develop branch and merge them back into develop branch when features are ready.
+
+- When it is time to make a new production release, a release branch is created
+
+- When the release is ready, then merge the release branch with master branch and tag it with a version number.
+
+- If a critical bug arises from from the production in master branch, create a hotfix branch to fix the bug while planned work continues in develop branch.
+
+- When the bug is fixed in the hotfix branch, merge it into master branch and tag it with a new version.
+
+- Merge the hotfix branch into develop branch or release branch if one exists.
+
+
+
+
+iii. Are you familiar with the expo framework?
+- I have not worked with the expo framework before.
+
+
+
+iv. code editors?
+- Visual Studio Code
+- Notepad++
+- Sublime
+- Vim
+- Bracket
+- Atom
+
+
+
+v. Experience (Years)?
+A. JavaScript - 1
+B. React or Vue - 1
+C. React Native - 0.5
+D. Mobile App Development - 0.5
+E. Expo - 0
+F. Redux - 0.5
+G. GraphQL or Apollo - 0
+H. Ruby on Rails - 0
+I. Node.js - 1
+J. AWS - 0
+K. CI/CD - 1
